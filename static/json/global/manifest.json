@@ -1,0 +1,21 @@
+{
+  "name": "Twis API — El Poder del Rey",
+  "short_name": "TwisAPI",
+  "description": "La corona de herramientas que TwisSpark usa para crear, mejorar y dominar proyectos. Poder, velocidad y estilo de rey en un solo lugar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8c52ff",
+  "theme_color": "#8c52ff",
+  "icons": [
+    {
+      "src": "/static/avatar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
